@@ -1,7 +1,8 @@
-package com.uca.labo5
+package com.uca.labo5.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.uca.labo5.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
