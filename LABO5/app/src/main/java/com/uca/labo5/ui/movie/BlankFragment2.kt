@@ -1,4 +1,4 @@
-package com.uca.labo5.ui
+package com.uca.labo5.ui.movie
 
 import android.os.Bundle
 import android.view.LayoutInflater

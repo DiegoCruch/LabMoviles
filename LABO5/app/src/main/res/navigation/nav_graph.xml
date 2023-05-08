@@ -18,12 +18,12 @@
     </fragment>
     <fragment
         android:id="@+id/blankFragment2"
-        android:name="com.uca.labo5.ui.BlankFragment2"
+        android:name="com.uca.labo5.ui.movie.BlankFragment2"
         android:label="fragment_blank2"
         tools:layout="@layout/fragment_blank2" />
     <fragment
         android:id="@+id/blankFragment3"
-        android:name="com.uca.labo5.ui.movie.BlankFragment3"
+        android:name="com.uca.labo5.ui.movie.NewMovieFragment"
         android:label="fragment_blank3"
         tools:layout="@layout/fragment_blank3" />
 </navigation>
